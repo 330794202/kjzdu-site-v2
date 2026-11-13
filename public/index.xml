@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>克己知度</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 克己知度</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 12 Nov 2026 17:41:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我们</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 12 Nov 2026 17:41:00 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;克己知度&#34;&gt;克己知度&lt;/h1&gt;
+&lt;p&gt;独立思考，理性甄别，冷静客观看待营养知识、新科技以及各类生物价值相关产品。
+不盲从营销话术，不夸大功效，只做中立的知识梳理与逻辑解读。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>第一篇科普</title>
+      <link>http://localhost:1313/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E7%A7%91%E6%99%AE/</link>
+      <pubDate>Thu, 12 Nov 2026 17:03:16 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E7%A7%91%E6%99%AE/</guid>
+      <description>&lt;p&gt;产品的价值有两种，一种是指营养价值，一种是指生物价值。
+营养价值分七种，包括水、矿物质、维生素、糖、蛋白质、脂肪、膳食纤维，以维持我们身体的正常需要。
+生物价值，是指保留相应的空间结构，具有需要的生物活性，并且没有失活和变性，能激发细胞、
+组织及人体产生对人体有益的生物价值（如免疫力提高及调节、抑制病毒及肿瘤、排出自由基、细胞通信等等）。&lt;/p&gt;
+&lt;p&gt;我们讲的是生物价值，生物活性，不是营养价值，这个讲起来跟西方是有相当大的差距，不是一点差距，国内做营养物质，
+做的是有效成分的提取、浓缩、含量或浓度。西方研究的是活性的方向、活性的优化（修饰）和量化：分子量、空间结构及官能团。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;      蛋白质的四级结构，缺少一个亚基或亚基单独存在不具有活性。
+
+    国内主要三大蛋白质检测研究机构，我们都有过接触，分别是：北京大学生命科学院、中科院生化所、国家蛋白质科学中心。
+
+        GSH低至40%，T细胞的活性几乎完全丧失
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;活性保持/源于牛奶（非stht等）&lt;/p&gt;
+&lt;p&gt;–      BSA，66KDa含17个cystine残基 + 6个Glu-Cys谷氨醯半胱氨酸&lt;/p&gt;
+&lt;p&gt;–      Lf，77KDa含17个cystine + 4个Glu-Cys&lt;/p&gt;
+&lt;p&gt;–      α-La，14.2KDa含4.5个cystine&lt;/p&gt;
+&lt;p&gt;–      β-Lg，18.4KDa含4.5个cystine&lt;/p&gt;
+&lt;p&gt;–      对比。蛋白占蛋清的10%，卵类黏蛋白ovomucoid占蛋白的8%左右，每3万分子中含两个Glu-Cys。酪蛋白中含量为零。&lt;/p&gt;
+&lt;p&gt;–      和蛋白粉/高铁奶粉/乳清蛋白粉/免疫粉的核心本质区别（更稳定、抵抗胃酶胰酶分解、加成作用）&lt;/p&gt;
+&lt;p&gt;要使癌细胞停止前进，关键在于细胞表面的含糖外壳，糖类分子围绕所有细胞彼此帮忙确认并相互沟通。&lt;/p&gt;
+&lt;p&gt;活性物质筛选等基础性工作薄弱，活性物质的分离、纯化等技术与西方存在较大的差距，设备落后，质量差，速度慢；功能食品，
+能提供比自身营养功能更多的生物价值，具有活化细胞、抑制衰老、提高机体免疫力、预防疾病、促进疾病痊愈并能调节人体生理的功能。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

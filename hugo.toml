@@ -1,0 +1,26 @@
+baseURL = "https://kjzdu.com/"
+languageCode = "zh-cn"
+title = "克己知度"
+theme = "PaperMod"
+
+[params]
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+author = "克己知度"
+description = "克己知度，理性科普，解读科技与生物价值相关知识"
+
+[menu]
+[[menu.main]]
+name = "首页"
+pageRef = "/"
+weight = 10
+[[menu.main]]
+name = "科普文章"
+pageRef = "/posts/"
+weight = 20
+[[menu.main]]
+name = "关于我们"
+pageRef = "/about/"
+weight = 30
